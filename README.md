@@ -1,7 +1,8 @@
+#### I'm currently working on an image classification project related to cell biology   
 [Linkedin](https://www.linkedin.com/in/graham-pinsent/)  
 [Twitter](https://twitter.com/GrahamPinsent)
 
-#### I'm currently working on an image classification project related to cell biology   
+Past Projects:  
 
 
 
