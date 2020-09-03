@@ -1,10 +1,17 @@
-#### I'm currently working on an image classification project related to cell biology   
 [Linkedin](https://www.linkedin.com/in/graham-pinsent/)  
 [Twitter](https://twitter.com/GrahamPinsent)
 
 Past Projects:  
 
+### [Malaria Blood Smear Classifier](https://www.kaggle.com/perry613/malaria-blood-smear-classifier-tensorflow) - Image Classification 
 
+-------------------
+![](https://i.imgur.com/I0G2Y9j.png)  
+
+● Tools: Python, TensorFlow, TensorBoard, Matplotlib, Pandas, Numpy  
+● Used a public dataset of 23,000 images to classify with 95% validation accuracy  
+● Identified and visualised mislabeled data to quantify validation error
+  
 
 
 ### [NBA Betting Model Project](https://www.kaggle.com/perry613/nba-sports-betting-model) - Regression Analysis
