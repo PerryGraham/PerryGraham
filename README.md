@@ -3,10 +3,20 @@
 
 Past Projects:  
 
+### [Web Racing Game - Backend](https://github.com/PerryGraham/Redis-Racing) - Data Engineering
+
+-------------------
+<img src="https://user-images.githubusercontent.com/68482531/124526400-87153600-ddb7-11eb-844a-91b68e7acd08.png" alt="drawing" width="400"/>
+
+● Tools: Redis-json, Nodejs, Express, JavaScript   
+● Built backend and server logic for web app racing game using in memory database and live data streaming.   
+● Won gold prize ($2000) in Redis 2021 Hackathon. 🥇
+
+
 ### [Malaria Blood Smear Classifier](https://www.kaggle.com/perry613/malaria-blood-smear-classifier-tensorflow) - Image Classification 
 
 -------------------
-![](https://i.imgur.com/I0G2Y9j.png)  
+<img src="https://i.imgur.com/I0G2Y9j.png" alt="drawing" width="400"/>
 
 ● Tools: Python, TensorFlow, TensorBoard, Matplotlib, Pandas, Numpy  
 ● Used a public dataset of 23,000 images to classify with 95% validation accuracy  
@@ -17,9 +27,8 @@ Past Projects:
 ### [NBA Betting Model Project](https://www.kaggle.com/perry613/nba-sports-betting-model) - Regression Analysis
 
 --------------------
-<!--
-<img src="https://www.kaggleusercontent.com/kf/41280862/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..9QFIfqVAvLRjaqnQiZ6HMw.O1fnPUbExWKLLdVMkEcMRDG0n7AYIV574iYyx1L9-BneO8rJbbx99HV-p0nWudhLdngWhaurdi3cPP03sGft4dXz0y7eX50wnnmv6m9Vk7cQQwDHDO2bWE14PgygYdGP83l0Xz_DAeX5sCINLuvjSX_eAaAtlLatetYi755GYVO_vf-CAPMBmfQ9q_R80huCeI57inSFth1PKCvNY0CXTbMzjycwn_oX1iVpawcZdz3M97uq0hBAEBhCZ73IeNnj27oEpUmIcusYlHjdZki4Vs1DQ1tKa79S3pVE3ZdZIaPP3Tbxy7V_y_pJssHVufT8Poyowf4BgbHAUG6gzErszu-mb1jYnXJO3-d0_r-SnBkNqc74lvkVoKefoB5B4EFpxw8QwlpabTDkxL4LV-bo-O4_8E7nYAVeKxDNE4kCZcji6E9T86ghvtfwMVGe7ByPQlB8y9c9xSiAAZoZawvbfLKAn4crdC1gdyfG47MUyrAvB28aTwc6je96a7wobh5T-ofuP8_S_-Mrg2yPo9vXyhb6_Wj1U07AQmu8d9r7d2o1AgOPvplhtvpAP8W2ZAvzIi4koQvkW5PW8e1nlSw-OfNQc7UG57BsOHmiWTcRA3rZPsHVuZnm3lIm5wOhOWWpfDzV-inrLNCeMD1J9AQoxQ.qOj48UB52YpNQ5ow_8RjXQ/__results___files/__results___71_1.png" alt="drawing" width="500"/>   
--->
+
+<img src="https://i.ibb.co/tm7VMFf/image.png" alt="drawing" width="400"/>   
 
 ● Tools: Python, Numpy, Scrapy, Pandas, Sklearn, XGBoost, Matplotlib, Seaborn  
 ● Predicted the total score of a match within 15% accuracy of the betting lines  
@@ -30,7 +39,7 @@ Past Projects:
 
 -------------
 
-<img src="https://i.imgur.com/iRakwiw.png" alt="drawing" width="500"/>  
+<img src="https://i.imgur.com/iRakwiw.png" alt="drawing" width="400"/>  
 
 ● Tools: Python, Pandas, Geopandas, Contextily, Folium, Matplotlib   
 ● Located and visualized high population area of the city, with low business competition   
@@ -42,7 +51,7 @@ Past Projects:
 
 ------------------
 
-<img src="https://i.imgur.com/1ppGdwe.png" alt="drawing" width="518"/>  
+<img src="https://i.imgur.com/1ppGdwe.png" alt="drawing" width="400"/>  
     
 ● Tools: Python, Pandas, Matplotlib, Seaborn, Squarify    
 ● Read and sorted census data to provide insights with various visuals    
@@ -53,8 +62,7 @@ Past Projects:
 ### [Model Selection Guide](https://perrygraham.github.io/Model-Selection-/#Suppot-Vector-Classification) - Beginners Guide
 
 -------------------
- <!--
-<img src="https://scikit-learn.org/stable/_images/sphx_glr_plot_tree_regression_001.png" alt="drawing" width="555"/>    
--->
+
+<img src="https://scikit-learn.org/stable/_images/sphx_glr_plot_tree_regression_001.png" alt="drawing" width="400"/>     
 ● Summary of machine learning models commonly used for regression / classification (from scikit-learn)  
 ● Reading through documentation about these models can often be very intimidating for beginners, especially when you do not have a strong math background. This is meant to be written for more people to understand the difference between models. 
