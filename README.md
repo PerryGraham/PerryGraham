@@ -1,6 +1,3 @@
-[Linkedin](https://www.linkedin.com/in/graham-pinsent/)  
-[Twitter](https://twitter.com/GrahamPinsent)
-
 Past Projects:  
 
 ### [Web Racing Game - Backend](https://github.com/PerryGraham/Redis-Racing) - Data Engineering
